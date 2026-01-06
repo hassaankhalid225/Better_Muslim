@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "Which companion of the Prophet Muhammad (PBUH) was known as 'The Truthful' (As-Siddiq)?",
+        "options": [
+            "Abu Bakr",
+            "Umar ibn Al-Khattab",
+            "Uthman ibn Affan",
+            "Ali ibn Abi Talib"
+        ],
+        "correctAnswer": "Abu Bakr",
+        "explanation": "Abu Bakr was given the title 'As-Siddiq' (The Truthful) because of his unwavering belief in the Prophet's Night Journey (Isra and Mi'raj)."
+    },
+    {
+        "id": 2,
+        "question": "How many times is prayer (Salah) mentioned in the Quran?",
+        "options": [
+            "5 times",
+            "67 times",
+            "700 times",
+            "Over 100 times"
+        ],
+        "correctAnswer": "Over 100 times",
+        "explanation": "Prayer is mentioned over 100 times in the Quran, emphasizing its importance in Islam."
+    },
+    {
+        "id": 3,
+        "question": "Which Surah is known as the 'Heart of the Quran'?",
+        "options": [
+            "Surah Al-Fatiha",
+            "Surah Yasin",
+            "Surah Al-Baqarah",
+            "Surah Al-Ikhlas"
+        ],
+        "correctAnswer": "Surah Yasin",
+        "explanation": "Surah Yasin is often called the 'Heart of the Quran' due to its profound message and spiritual significance."
+    },
+    {
+        "id": 4,
+        "question": "What is the first pillar of Islam?",
+        "options": [
+            "Prayer (Salah)",
+            "Fasting (Sawm)",
+            "Declaration of Faith (Shahada)",
+            "Charity (Zakat)"
+        ],
+        "correctAnswer": "Declaration of Faith (Shahada)",
+        "explanation": "The Shahada (declaration of faith) is the first and most fundamental pillar of Islam."
+    },
+    {
+        "id": 5,
+        "question": "In which month was the Quran first revealed?",
+        "options": [
+            "Muharram",
+            "Ramadan",
+            "Shawwal",
+            "Dhul-Hijjah"
+        ],
+        "correctAnswer": "Ramadan",
+        "explanation": "The Quran was first revealed to Prophet Muhammad (PBUH) during the month of Ramadan, on the Night of Power (Laylat al-Qadr)."
+    },
+    {
+        "id": 6,
+        "question": "How many Surahs are there in the Quran?",
+        "options": [
+            "99",
+            "114",
+            "124",
+            "140"
+        ],
+        "correctAnswer": "114",
+        "explanation": "The Quran contains 114 Surahs (chapters), ranging from the longest (Al-Baqarah) to the shortest (Al-Kawthar)."
+    },
+    {
+        "id": 7,
+        "question": "Which angel is responsible for bringing revelation to the prophets?",
+        "options": [
+            "Mikail (Michael)",
+            "Israfil",
+            "Jibril (Gabriel)",
+            "Azrael"
+        ],
+        "correctAnswer": "Jibril (Gabriel)",
+        "explanation": "Angel Jibril (Gabriel) was responsible for bringing divine revelation from Allah to the prophets."
+    },
+    {
+        "id": 8,
+        "question": "What is the Arabic term for the pilgrimage to Mecca?",
+        "options": [
+            "Umrah",
+            "Hajj",
+            "Ziyarah",
+            "Tawaf"
+        ],
+        "correctAnswer": "Hajj",
+        "explanation": "Hajj is the annual Islamic pilgrimage to Mecca, which is one of the five pillars of Islam."
+    },
+    {
+        "id": 9,
+        "question": "Which prophet is mentioned the most in the Quran?",
+        "options": [
+            "Prophet Muhammad (PBUH)",
+            "Prophet Ibrahim (Abraham)",
+            "Prophet Musa (Moses)",
+            "Prophet Isa (Jesus)"
+        ],
+        "correctAnswer": "Prophet Musa (Moses)",
+        "explanation": "Prophet Musa (Moses) is mentioned by name more than any other prophet in the Quran, appearing in numerous Surahs."
+    },
+    {
+        "id": 10,
+        "question": "What is the minimum amount of wealth (Nisab) required for Zakat to be obligatory?",
+        "options": [
+            "The value of 85 grams of gold",
+            "The value of 100 grams of gold",
+            "The value of 50 grams of gold",
+            "The value of 200 grams of gold"
+        ],
+        "correctAnswer": "The value of 85 grams of gold",
+        "explanation": "The Nisab (minimum threshold) for Zakat is equivalent to the value of 85 grams of gold or 595 grams of silver."
+    }
+]

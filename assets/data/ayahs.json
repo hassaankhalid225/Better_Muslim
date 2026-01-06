@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "surah_name": "Al-Fatihah",
+    "surah_number": 1,
+    "ayah_number": 6,
+    "arabic_text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "english_text": "Guide us to the straight path",
+    "reference": "Surah Al-Fatihah 1:6"
+  },
+  {
+    "id": 2,
+    "surah_name": "Al-Baqarah",
+    "surah_number": 2,
+    "ayah_number": 153,
+    "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "english_text": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+    "reference": "Surah Al-Baqarah 2:153"
+  },
+  {
+    "id": 3,
+    "surah_name": "Al-Baqarah",
+    "surah_number": 2,
+    "ayah_number": 186,
+    "arabic_text": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا bِي لَعَلَّهُمْ يَرْشُدُونَ",
+    "english_text": "And when My servants ask you concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me and believe in Me that they may be [rightly] guided.",
+    "reference": "Surah Al-Baqarah 2:186"
+  },
+  {
+    "id": 4,
+    "surah_name": "Al-Baqarah",
+    "surah_number": 2,
+    "ayah_number": 216,
+    "arabic_text": "وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+    "english_text": "But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not.",
+    "reference": "Surah Al-Baqarah 2:216"
+  },
+  {
+    "id": 5,
+    "surah_name": "Al-Baqarah",
+    "surah_number": 2,
+    "ayah_number": 255,
+    "arabic_text": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "english_text": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+    "reference": "Surah Al-Baqarah 2:255"
+  },
+  {
+    "id": 6,
+    "surah_name": "Al-Imran",
+    "surah_number": 3,
+    "ayah_number": 139,
+    "arabic_text": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+    "english_text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+    "reference": "Surah Al-Imran 3:139"
+  },
+  {
+    "id": 7,
+    "surah_name": "An-Nisa",
+    "surah_number": 4,
+    "ayah_number": 45,
+    "arabic_text": "وَاللَّهُ أَعْلَمُ بِأَعْدَائِكُمْ ۚ وَكَفَىٰ بِاللَّهِ وَلِيًّا وَكَفَىٰ بِاللَّهِ نَصِيرًا",
+    "english_text": "And Allah is most knowing of your enemies; and sufficient is Allah as an ally, and sufficient is Allah as a helper.",
+    "reference": "Surah An-Nisa 4:45"
+  },
+  {
+    "id": 8,
+    "surah_name": "Al-Ma'idah",
+    "surah_number": 5,
+    "ayah_number": 119,
+    "arabic_text": "قَالَ اللَّهُ هَٰذَا يَوْمُ يَنفَعُ الصَّادِقِينَ صِدْقُهُمْ",
+    "english_text": "Allah will say, \"This is the Day when the truthful will benefit from their truthfulness.\"",
+    "reference": "Surah Al-Ma'idah 5:119"
+  },
+  {
+    "id": 9,
+    "surah_name": "Al-An'am",
+    "surah_number": 6,
+    "ayah_number": 17,
+    "arabic_text": "وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "english_text": "And if Allah touches you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent.",
+    "reference": "Surah Al-An'am 6:17"
+  },
+  {
+    "id": 10,
+    "surah_name": "Al-A'raf",
+    "surah_number": 7,
+    "ayah_number": 56,
+    "arabic_text": "إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ",
+    "english_text": "Indeed, the mercy of Allah is near to the doers of good.",
+    "reference": "Surah Al-A'raf 7:56"
+  },
+  {
+    "id": 11,
+    "surah_name": "At-Tawbah",
+    "surah_number": 9,
+    "ayah_number": 40,
+    "arabic_text": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+    "english_text": "Do not grieve; indeed Allah is with us.",
+    "reference": "Surah At-Tawbah 9:40"
+  },
+  {
+    "id": 12,
+    "surah_name": "Yunus",
+    "surah_number": 10,
+    "ayah_number": 62,
+    "arabic_text": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "english_text": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve.",
+    "reference": "Surah Yunus 10:62"
+  },
+  {
+    "id": 13,
+    "surah_name": "Yusuf",
+    "surah_number": 12,
+    "ayah_number": 86,
+    "arabic_text": "قَالَ إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ",
+    "english_text": "He said, \"I only complain of my suffering and my grief to Allah.\"",
+    "reference": "Surah Yusuf 12:86"
+  },
+  {
+    "id": 14,
+    "surah_name": "Ar-Ra'd",
+    "surah_number": 13,
+    "ayah_number": 28,
+    "arabic_text": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "english_text": "Unquestionably, by the remembrance of Allah hearts are assured.",
+    "reference": "Surah Ar-Ra'd 13:28"
+  },
+  {
+    "id": 15,
+    "surah_name": "Ibrahim",
+    "surah_number": 14,
+    "ayah_number": 7,
+    "arabic_text": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+    "english_text": "If you are grateful, I will surely increase you [in favor].",
+    "reference": "Surah Ibrahim 14:7"
+  },
+  {
+    "id": 16,
+    "surah_name": "Al-Hijr",
+    "surah_number": 15,
+    "ayah_number": 99,
+    "arabic_text": "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
+    "english_text": "And worship your Lord until there comes to you the certainty (death).",
+    "reference": "Surah Al-Hijr 15:99"
+  },
+  {
+    "id": 17,
+    "surah_name": "Al-Isra",
+    "surah_number": 17,
+    "ayah_number": 37,
+    "arabic_text": "وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا",
+    "english_text": "And do not walk upon the earth exultantly.",
+    "reference": "Surah Al-Isra 17:37"
+  },
+  {
+    "id": 18,
+    "surah_name": "Al-Kahf",
+    "surah_number": 18,
+    "ayah_number": 46,
+    "arabic_text": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا ۖ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+    "english_text": "Wealth and children are [but] adornment of the worldly life. But the enduring good deeds are better to your Lord for reward and better for [one's] hope.",
+    "reference": "Surah Al-Kahf 18:46"
+  },
+  {
+    "id": 19,
+    "surah_name": "Taha",
+    "surah_number": 20,
+    "ayah_number": 114,
+    "arabic_text": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+    "english_text": "And say, \"My Lord, increase me in knowledge.\"",
+    "reference": "Surah Taha 20:114"
+  },
+  {
+    "id": 20,
+    "surah_name": "Al-Anbiya",
+    "surah_number": 21,
+    "ayah_number": 87,
+    "arabic_text": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+    "english_text": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+    "reference": "Surah Al-Anbiya 21:87"
+  },
+  {
+    "id": 21,
+    "surah_name": "Al-Hajj",
+    "surah_number": 22,
+    "ayah_number": 77,
+    "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ",
+    "english_text": "O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed.",
+    "reference": "Surah Al-Hajj 22:77"
+  },
+  {
+    "id": 22,
+    "surah_name": "Al-Mumineen",
+    "surah_number": 23,
+    "ayah_number": 118,
+    "arabic_text": "وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+    "english_text": "And say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\"",
+    "reference": "Surah Al-Mumineen 23:118"
+  },
+  {
+    "id": 23,
+    "surah_name": "An-Nur",
+    "surah_number": 24,
+    "ayah_number": 26,
+    "arabic_text": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ",
+    "english_text": "Evil words are for evil men, and evil men are [subjected] to evil words. And good words are for good men, and good men are [an object] of good words.",
+    "reference": "Surah An-Nur 24:26"
+  },
+  {
+    "id": 24,
+    "surah_name": "Al-Furqan",
+    "surah_number": 25,
+    "ayah_number": 63,
+    "arabic_text": "وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا",
+    "english_text": "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace.",
+    "reference": "Surah Al-Furqan 25:63"
+  },
+  {
+    "id": 25,
+    "surah_name": "Ash-Shu'ara",
+    "surah_number": 26,
+    "ayah_number": 80,
+    "arabic_text": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+    "english_text": "And when I am ill, it is He who cures me.",
+    "reference": "Surah Ash-Shu'ara 26:80"
+  },
+  {
+    "id": 26,
+    "surah_name": "An-Naml",
+    "surah_number": 27,
+    "ayah_number": 19,
+    "arabic_text": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ",
+    "english_text": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents.",
+    "reference": "Surah An-Naml 27:19"
+  },
+  {
+    "id": 27,
+    "surah_name": "Al-Qasas",
+    "surah_number": 28,
+    "ayah_number": 24,
+    "arabic_text": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+    "english_text": "My Lord, indeed I am, for whatever good You would send down to me, in need.",
+    "reference": "Surah Al-Qasas 28:24"
+  },
+  {
+    "id": 28,
+    "surah_name": "Al-Ankabut",
+    "surah_number": 29,
+    "ayah_number": 69,
+    "arabic_text": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ",
+    "english_text": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allah is with the doers of good.",
+    "reference": "Surah Al-Ankabut 29:69"
+  },
+  {
+    "id": 29,
+    "surah_name": "Luqman",
+    "surah_number": 31,
+    "ayah_number": 17,
+    "arabic_text": "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ",
+    "english_text": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you.",
+    "reference": "Surah Luqman 31:17"
+  },
+  {
+    "id": 30,
+    "surah_name": "As-Sajdah",
+    "surah_number": 32,
+    "ayah_number": 17,
+    "arabic_text": "فَلَا تَعْلَمُ نَفْسٌ مَّا أُخْفِيَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
+    "english_text": "And no soul knows what has been hidden for them of comfort for eyes as reward for what they used to do.",
+    "reference": "Surah As-Sajdah 32:17"
+  }
+]
